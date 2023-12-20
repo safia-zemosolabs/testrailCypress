@@ -1,1 +1,1 @@
-# testrailCypress
+# CypressAmazonAssignment

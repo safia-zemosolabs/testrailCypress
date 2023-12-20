@@ -1,0 +1,28 @@
+{
+  "name": "cypressamazonassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open --config-file configs/cypress.json",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safia-zemosolabs/CypressAmazonAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safia-zemosolabs/CypressAmazonAssignment/issues"
+  },
+  "homepage": "https://github.com/safia-zemosolabs/CypressAmazonAssignment#readme",
+  "devDependencies": {
+    "axios": "^0.18.1",
+    "cypress": "^12.7.0",
+    "salty-cypress-testrail-reporter": "^1.4.0",
+    "typescript": "^5.3.3"
+  }
+}
